@@ -1,5 +1,4 @@
 # Telecom Customer Churn Prediction System
-
 ## Project Overview
 This project focuses on analyzing telecom customer data to identify patterns and factors that contribute to customer churn. The goal is to help businesses proactively identify at-risk customers and improve retention strategies using data-driven insights.
 
